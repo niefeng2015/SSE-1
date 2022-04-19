@@ -4,7 +4,7 @@ This is a list of resources about Searchable Symmetric Enryption (SSE).
 
 # Contents
 * Theory
-**Introductory Papers
+  * Introductory Papers
 
 # Theory
 ## Introductory Papers/slides
